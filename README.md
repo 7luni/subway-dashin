@@ -3,7 +3,7 @@ Subway Dashin mixes the endless running of Subway Surfers with the tough platfor
 
 Built entirely by me and Claude AI.
 
-#Features
+Features
 
 8 Unique Levels – Explore eight levels with many obstacles and different play styles.
 
