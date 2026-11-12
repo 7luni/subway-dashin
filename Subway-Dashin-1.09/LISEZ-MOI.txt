@@ -1,0 +1,35 @@
+SUBWAY DASHIN - jeu pour Windows 10 / 11
+=========================================
+
+LANCER LE JEU
+1. Dezippe le dossier.
+2. Double-clique sur "Subway Dashin.exe". Le jeu s'ouvre dans sa propre fenetre.
+3. Ferme la fenetre pour quitter.
+
+Si Windows affiche "Windows a protege votre ordinateur" (fichier non signe) :
+clique sur "Informations complementaires" puis "Executer quand meme".
+
+Si le pare-feu Windows demande l'acces au reseau : clique sur "Autoriser"
+(reseaux prives). C'est ce qui permet a tes amis de te rejoindre.
+
+COMPTES ET SAUVEGARDES
+- Bouton "Account" en haut a gauche : cree ton profil (nom, avatar, mot de passe).
+- Mets un mot de passe (Account > Set Password) pour pouvoir te reconnecter.
+- SE CONNECTER : Account > "I already have an account" (ou "Switch Account"),
+  puis ton nom d'utilisateur + mot de passe. Marche aussi sur le PC d'un ami
+  connecte au meme serveur.
+- Tout est sauvegarde sur le PC qui heberge le serveur, dans %AppData%\SubwayDashin.
+
+MULTIJOUEUR (meme reseau / meme Wi-Fi)
+- Celui qui heberge : ouvre "Multiplayer". Il voit son adresse (ex : 192.168.1.20)
+  et cree une room.
+- Les amis : ouvrent "Multiplayer", tapent cette adresse dans la case "Server",
+  cliquent "Connect", puis rejoignent la room.
+- Tout le monde choisit le meme niveau : les autres apparaissent en robots fantomes.
+- Death Link, opacite par joueur et emotes (touches 1 a 6) fonctionnent.
+- Les comptes et les niveaux publies dans "Community" sont stockes sur le PC de
+  l'hote : tout le monde connecte au meme hote les partage.
+- Pour jouer par Internet (pas sur le meme Wi-Fi), l'hote doit ouvrir le port 47811
+  sur sa box, ou utiliser un VPN de jeu comme Radmin VPN / ZeroTier.
+
+Le jeu a besoin de "Microsoft Edge WebView2" (deja installe sur Windows 10/11).
